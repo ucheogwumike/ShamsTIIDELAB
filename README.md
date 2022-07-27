@@ -1,0 +1,1 @@
+A solution to a task from a TIIDELAB fellowship class. Please test the code with your console thanks.
